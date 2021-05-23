@@ -1,0 +1,17 @@
+node_modules
+package-lock.json
+workspace.code-workspace
+src/pug/index.pug
+src/pug/includes/portfolio-modal-1.pug
+src/pug/includes/portfolio-modal-2.pug
+src/pug/includes/portfolio-modal-3.pug
+src/pug/includes/portfolio-modal-4.pug
+src/pug/includes/portfolio-modal-5.pug
+src/pug/includes/portfolio-modal-6.pug
+dist/assets/img/avataaars.svg
+dist/assets/img/portfolio/cabin.png
+dist/assets/img/portfolio/cake.png
+dist/assets/img/portfolio/circus.png
+dist/assets/img/portfolio/game.png
+dist/assets/img/portfolio/safe.png
+dist/assets/img/portfolio/submarine.png

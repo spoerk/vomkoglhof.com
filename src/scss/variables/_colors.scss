@@ -1,0 +1,24 @@
+// 
+// Colors
+// 
+
+//- Override and add to color system
+$teal: #1abc9c;
+$dark-blue: #2c3e50;
+
+$font-dark: #32373c;
+
+$dark-brown: #3c2323;
+$light-brown: #655441;
+$green: #20603c;
+$white: #fffdf6;
+
+// Font "Rubik", Trebuchet MS, Lucida Grande, Lucida Sans Unicode, Lucida Sans, Tahoma, sans-serif
+
+//- Override primary color
+$primary: $green;
+$secondary: $font-dark;
+
+// The contrast ratio to reach against white, to determine if color changes from "light" to "dark". Acceptable values for WCAG 2.0 are 3, 4.5 and 7.
+// See https://www.w3.org/TR/WCAG20/#visual-audio-contrast-contrast
+$min-contrast-ratio: 2.4;
